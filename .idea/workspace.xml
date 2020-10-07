@@ -10,30 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f35d4d1-058b-4a82-9c2c-c40b6db51879" name="Default Changelist" comment="đẩy code">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24h.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T2008M.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exxpress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/117644746_854399735091672_8036981687055158408_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/ip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/mou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/muvstot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/son.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/son1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgss/son2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hoahaiduong.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hoavideo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vnexpress.html" afterDir="false" />
-    </list>
+    <list default="true" id="0f35d4d1-058b-4a82-9c2c-c40b6db51879" name="Default Changelist" comment="đẩy code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +74,7 @@
       <workItem from="1602034622369" duration="362000" />
       <workItem from="1602035009337" duration="545000" />
       <workItem from="1602035569910" duration="42000" />
-      <workItem from="1602035623030" duration="716000" />
+      <workItem from="1602035623030" duration="1357000" />
     </task>
     <task id="LOCAL-00001" summary="đẩy code">
       <created>1602035713422</created>
@@ -113,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602037736938</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="đẩy code">
+      <created>1602037789491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602037789491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="đẩy code">
+      <created>1602037971378</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602037971378</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,10 +207,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="204" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1602035555466" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602035725121">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602037982175">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602035725121" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602037982175" />
     <state x="303" y="1" key="search.everywhere.popup" timestamp="1601863941239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
