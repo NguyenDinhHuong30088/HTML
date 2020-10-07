@@ -1,0 +1,17 @@
+body{
+    max-width: 200;
+    width: 700px;
+    margin-left: 300px;
+}
+img{
+    float: left;
+}
+span{
+    float: right;
+}
+h4{
+    color: #CC0099;
+}
+p{
+    font-size: 14px;
+}
