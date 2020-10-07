@@ -1,0 +1,28 @@
+body{
+    background-image: url('anh/h3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: chartreuse;/* rgb(12,190,0)*/
+    font-size: 30px;
+    font-family: "Times New Roman";
+    font-weight: 700;
+    line-height: 50px;
+    text-decoration: underline;
+    /* underline line-through overline none*/
+    text-transform: capitalize;
+    /* uppercace lowercase capitalize none*/
+}
+p{
+    font-size: 20px;
+    line-height: 1.25;
+    color: #333333;
+    width: 600px;
+    text-align: justify;
+    /*left right center justify*/
+    background-color: aqua;
+}
+img{
+    max-width: 100%;
+}
