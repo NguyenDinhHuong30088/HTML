@@ -9,3 +9,13 @@ p{
 span{
     text-align: center;
 }
+ul{
+    margin-left: 15px;
+    padding-left: 0px;
+}
+ul b {
+    margin-left: -16px;
+}
+br{
+    padding-top: 30px;
+}
