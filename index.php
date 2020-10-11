@@ -1,1 +1,1 @@
-<?php include("Ss3/bai3.html");
+<?php include("Baitap2/BaiTap2.html");
