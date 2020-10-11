@@ -1,1 +1,1 @@
-<?php include("/vnexpresss.html");
+<?php include("vnexpresss.html");
