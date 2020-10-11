@@ -1,0 +1,52 @@
+*{
+
+}
+body{
+    background-color: #f2f2f2;
+    color: #242424;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family:'Roboto',sans-serif;
+}
+div{
+    width: 350px;
+    height: 350px;
+    border: 1px solid #888888;
+    padding: 10px 25px 30px 35px;
+    padding-top: 15px;
+    /*padding-right: 25px;*/
+    /*padding-bottom: 30px;*/
+    /*padding-left: 35px;*/
+    float: left;/* left right none*/
+    margin: 15px;
+    box-sizing: border-box;/*chi su dung duoc toi da 350px*/
+    overflow: hidden;
+    box-shadow: 2px 2px 5px #888888;
+    border-radius: 4px;
+    text-align: center;
+    background-color: aqua;
+}
+img{
+    max-width: 100%;
+}
+#nt{
+    width: 440px;
+    height:550px;
+}
+div#nt img{
+    width: 300px;
+    height: auto;
+}
+#rec{
+    width: 30px;
+    height: 30px;
+    background-color: chartreuse;
+    border-radius: 100%;
+}
+center{
+    float: none;
+    width: 200px;
+    background-color: aqua;
+    margin: 10px auto;
+}
