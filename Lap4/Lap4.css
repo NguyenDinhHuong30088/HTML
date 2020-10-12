@@ -1,0 +1,116 @@
+body{
+   background-image: url("https://file.vforum.vn/hinh/2015/11/vforum.vn-hinh-anh-nen-ngan-ha-vu-tru-bao-la-10.jpg");
+    width: 1300px;
+    height: 650px;
+    margin: 0px auto;
+
+}
+#phong{
+    width: 600px;
+    height: 600px;
+    background-color: #EEEEEE;
+    padding-top: 20px;
+    margin: auto;
+    float: none;
+    margin-top: 40px;
+}
+#phong1{
+    background-color: white;
+    width: 560px;
+    height: 50px;
+    margin: auto;
+    float: none;
+    margin-top: -25px;
+}
+.b{
+    font-size: 25px;
+    padding-top: 15px;
+}
+.b1{
+    margin-left: 40px;
+    margin-top: -55px;
+    font-size: 20px;
+}
+.phong2{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-top: 50px;
+}
+.phong3{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-left: 146px;
+    margin-top: -220px;
+}
+.phong4{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-left: 292px;
+    margin-top: -220px;
+}
+.phong5{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-left: 438px;
+    margin-top: -220px;
+}
+.phong6{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-left: 438px;
+    margin-top: 40px;
+}
+.phong7{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-left: 292px;
+    margin-top: -220px;
+}
+.phong8{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-left: 146px;
+    margin-top: -220px;
+}
+.phong9{
+    width: 120px;
+    height: 220px;
+    background-color: white;
+    margin-top: -220px;
+}
+img{
+    width: 120px;
+    height: 120px;
+}
+.nen1{
+    width: 120px;
+    height: 30px;
+    background-color: aqua;
+    margin-top: -10px;
+}
+.sale1{
+    text-align: center;
+    padding-top: 5px;
+}
+.ten{
+    margin-left: 13px;
+    padding-top: -20px;
+    font-size: 15px;
+}
+.sale2{
+    margin-left: 13px;
+    padding-top: -30px;
+    font-size: 15px;
+    color: red;
+    margin-top: 10px;
+}
+span{
+    font-size: 12px;
+}
