@@ -22,6 +22,9 @@ body{
     float: none;
     margin-top: -25px;
 }
+.phong1:hover {
+    transform: scale(1.1);
+}
 .b{
     font-size: 25px;
     padding-top: 15px;
@@ -37,12 +40,18 @@ body{
     background-color: white;
     margin-top: 50px;
 }
+.phong2:hover {
+    transform: scale(1.1);
+}
 .phong3{
     width: 120px;
     height: 220px;
     background-color: white;
     margin-left: 146px;
     margin-top: -220px;
+}
+.phong3:hover {
+    transform: scale(1.1);
 }
 .phong4{
     width: 120px;
@@ -51,12 +60,18 @@ body{
     margin-left: 292px;
     margin-top: -220px;
 }
+.phong4:hover {
+    transform: scale(1.1);
+}
 .phong5{
     width: 120px;
     height: 220px;
     background-color: white;
     margin-left: 438px;
     margin-top: -220px;
+}
+.phong5:hover {
+    transform: scale(1.1);
 }
 .phong6{
     width: 120px;
@@ -65,12 +80,18 @@ body{
     margin-left: 438px;
     margin-top: 40px;
 }
+.phong6:hover {
+    transform: scale(1.1);
+}
 .phong7{
     width: 120px;
     height: 220px;
     background-color: white;
     margin-left: 292px;
     margin-top: -220px;
+}
+.phong7:hover {
+    transform: scale(1.1);
 }
 .phong8{
     width: 120px;
@@ -79,11 +100,17 @@ body{
     margin-left: 146px;
     margin-top: -220px;
 }
+.phong8:hover {
+    transform: scale(1.1);
+}
 .phong9{
     width: 120px;
     height: 220px;
     background-color: white;
     margin-top: -220px;
+}
+.phong9:hover {
+    transform: scale(1.1);
 }
 img{
     width: 120px;
@@ -94,6 +121,22 @@ img{
     height: 30px;
     background-color: aqua;
     margin-top: -10px;
+
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@-webkit-keyframes example {
+    0% {background-color: chartreuse;}
+    25% {background-color: aquamarine;}
+    50% {background-color: deepskyblue;}
+    100% {background-color: mediumspringgreen;}
+}
+@keyframes example {
+    0% {background-color: chartreuse;}
+    25% {background-color: aquamarine;}
+    50% {background-color: deepskybluek;}
+    100% {background-color: mediumspringgreen;}
 }
 .sale1{
     text-align: center;
