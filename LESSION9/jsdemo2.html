@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS 2</title>
+</head>
+<body>
+<script type="text/javascript">
+    function canhbao(){
+        console.log("Canh bao nguy hiem");
+    }
+    //setTimeout(canhbao,3000);
+    //setTimeout(function (){
+    //alert("Canh bao nguy hiem");
+    //},3000);
+    //setInterval(canhbao,3000);
+    var min=10, sec = 0;
+    const Clock = function (){
+        console.log(min +":"+sec);
+        sec--;
+        if(sec<=0){
+            sec=59;
+            min--;
+        }
+        if(min<0){
+            clearInterval(time);
+        }
+    }
+    var time = setInterval(Clock,100);
+    var TinhTong = (a,b)=>{
+        return a+b;
+    }
+</script>
+</body>
+</html>
+</body>
+</html>

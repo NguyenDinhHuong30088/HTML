@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo2js</title>
+</head>
+<body>
+    <script type="text/javascript">
+        function canhbao(){
+            alert("Canh bao nguy hiem")
+            console.log("Canh bao nguy hiem");
+        }
+        //canhbao(); thuc thi ham
+        //tao de lay
+        //setTimeout(canhbao,3000);cach1//goi bang ten ham
+       // setTimeout(function (){ //nap ham an danh
+         //   alert("Canh bao nguy hiem");
+        //},3000); cach2
+
+       // setInterval(canhbao,3000); lap lai nhieu lan
+        var min = 2, sec = 0;
+        var Clock = function () { //khai bao ham
+
+            console.log(min+":"+sec);
+            if (sec<0){
+                sec=59;
+                min--;
+            }
+            if (min<0){
+                //dung dong ho
+                clearInterval(time);
+            }
+        }
+        var time = setInterval(Clock,1000);
+
+        //viet ham theo kieu arrow function
+        var TinhTong = (a,b)=>{
+            return a+b;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script type="text/javascript">
+        //Vietlot
+        var lucky = [];
+        for (let i=0;i<5;i++){
+            do{
+                var x = parseInt(Math.random()*100);
+            }while (lucky.includes(x));
+            lucky[i] = x;
+        }
+        console.log(lucky);
+        var myNumbers = [];// mang 5 so lua chon
+        for (let i=0;i<5;i++){
+            let x;
+            do{
+                x = prompt("Nhap so may man:")
+                x = parseInt(x);
+            }while (myNumbers.includes(x)|| isNaN(x));
+            myNumbers[i] =x;
+        }
+        //Kiem tra xem co trung giai
+        let sl = 0;
+        for (let j=0;j<5;j++){
+            if (lucky.includes(myNumbers[j][i]))
+                sl++;
+        }
+        if (sl == 5) {
+            alert("Chuc mung da chung thuong 100ty");
+        }
+        break;
+    </script>
+</body>
+</html>

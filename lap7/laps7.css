@@ -1,6 +1,10 @@
 *{
     box-sizing: border-box;
 }
+body{
+    width: 100%;
+    height: 100%;
+}
 .container{
     width: 78%;
     margin: 0 auto;
@@ -247,6 +251,9 @@
 .item-body5:hover .z4_1{
     color: white;
     background-color: #30A8D5;
+}
+.item-body5:hover{
+    transform: scale(1.1);
 }
 .z5{
     text-align: center;

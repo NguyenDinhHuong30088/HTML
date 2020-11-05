@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS with DOM</title>
+</head>
+<body>
+    <h1 id="heading1">Hello World</h1>
+    <img id="img01" src="anhh/DSC_7181.JPG"/>
+    <script type="text/javascript">
+        function changeText(){
+            var head1 = document.getElementById("heading1");
+            head1.innerText = "Good Morning!";
+            head1.style.color = "red";
+            head1.style.fontSize = "30px";
+            head1.style.backgroundColor = "orange";
+            //kiem tra
+            if (head1.classList.contains("heading")){
+                //xoa class di
+                head1.classList.remove("heading");
+            }else {
+                // them class
+                head1.classList.add("heading");
+            }
+
+            // tac dong den img 01
+            var im1 = document.getElementById("img01");
+            im1.src = ""
+            im1.style.display = "none";//tat
+            im1.style.display = "block";//bat
+        }
+        // su dung ham sau 3s
+        setTimeout(changeText,3000);
+
+        function anh(){
+            var im1 = document.getElementById("img01");
+            if (im1.style.display == "none"){
+             }
+        }
+        </script>
+</body>
+</html>
