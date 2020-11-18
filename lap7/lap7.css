@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.vach{
+    margin-top: -480px;
+    color: yellow;
+    position: relative;
+}
+.anh{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.top-links{
+    position: relative;
+    float: right;
+    margin-top: -515px;
+    margin-right: 40px;
+}
+ul li{
+    float: right;
+    margin-right: 20px;
+    list-style: none;
+}
+.top-links ul li a{
+    color: white;
+}
+.top-links ul li a:hover{
+    color: yellow;
+    transform: scale(1.1);
+}
+.icon{
+    float: left;
+    position: relative;
+    margin-top: -515px;
+    color: white;
+    margin-left: 40px;
+}
+.top-links2{
+    position: relative;
+    margin-top: -425px;
+    float: right;
+    font-size: 14px;
+    margin-right: 60px;
+}
+a{
+    text-decoration: none;
+}
+.top-links2 ul li a{
+    color: white;
+}
+.top-links2 ul li a:hover{
+    color: #2aabd2;
+}
+.top-links2 ul li{
+    margin-right: 7px;
+}
+button{
+    width: 140px;
+    height: 40px;
+    background-color: #2aabd2;
+    border: none;
+}
+.chu{
+    font-size: 17px;
+    color: white;
+}
+button:hover{
+    background-color: #5bc0de;
+}
+.link{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.chu2{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top: 70px;
+}
